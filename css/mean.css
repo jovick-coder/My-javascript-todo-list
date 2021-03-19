@@ -1,0 +1,14 @@
+body {
+	 background: #FFFFFF;
+ }
+ .tododiv{
+ 	background-color: #ddd;
+ 	font-size: 20px;
+ 	padding: 10px 5px;
+ 	margin: 10px 0px; 
+	color: ;
+}
+.js-btn{
+	float: right;
+	 	padding: 10px 5px;
+}
